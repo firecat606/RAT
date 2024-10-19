@@ -1,0 +1,14 @@
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\bin\Debug\net7.0\RAT_Client.exe
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\bin\Debug\net7.0\RAT_Client.deps.json
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\bin\Debug\net7.0\RAT_Client.runtimeconfig.json
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\bin\Debug\net7.0\RAT_Client.dll
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\bin\Debug\net7.0\RAT_Client.pdb
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\RAT_Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\RAT_Client.AssemblyInfoInputs.cache
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\RAT_Client.AssemblyInfo.cs
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\RAT_Client.csproj.CoreCompileInputs.cache
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\RAT_Client.dll
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\refint\RAT_Client.dll
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\RAT_Client.pdb
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\RAT_Client.genruntimeconfig.cache
+C:\Users\Tslelay Gitit\Desktop\Noam\C#\RAT\RAT_Client\obj\Debug\net7.0\ref\RAT_Client.dll
