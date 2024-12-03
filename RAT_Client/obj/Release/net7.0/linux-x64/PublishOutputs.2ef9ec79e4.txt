@@ -1,0 +1,2 @@
+/home/user/Downloads/RAT-main/RAT_Client/bin/Release/net7.0/linux-x64/publish/RAT_Client.pdb
+/home/user/Downloads/RAT-main/RAT_Client/bin/Release/net7.0/linux-x64/publish/RAT_Client
